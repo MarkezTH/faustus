@@ -1,0 +1,8 @@
+a) It seems that enabling AMD HW virtualization screws up display ---> there is a flicker every few seconds.
+The setting is located at: Advanced → CPU Configuration → SVM (BIOS v304)
+This seems to "work" on linux (kernel 5.6.x) as well on win.
+Other side effects unknown.
+
+
+
+
