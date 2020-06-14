@@ -1,5 +1,8 @@
 # Faustus Project
 
+- Added 4 FA506 models (IH, II, IU and IV)  and 3 FA706 (IH, II, IU)
+- Added kernel 5.6+ support, as on Ubuntu 20.04 kernel 5.6 oem supports Ryzen 4000 rather well.
+
 Experimental unofficial Linux platform driver module for ASUS TUF Gaming series laptops. 
 
 It is a backport of the asus-wmi / asus-nb-wmi drivers from the mainline + RGB backlight crudely cut-down to be useful for these laptops and packed as a DKMS module for 4.x / 5.x kernels.
