@@ -1,4 +1,4 @@
-# Faustus Project - Backligh per portatile
+# Faustus Project - Backlight per portatile
 
 - Added 4 FA506 models (IH, II, IU and IV)  and 3 FA706 (IH, II, IU)
 - Added kernel 5.6+ support, as on Ubuntu 20.04 kernel 5.6 oem supports Ryzen 4000 rather well.
